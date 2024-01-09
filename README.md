@@ -1,5 +1,7 @@
 <h1>Hi, I'M Mohnish Saxena! <br/>  <a href="https://www.linkedin.com/in/mohnishsaxena21">Cybersecurity Professional</a>, <a href="https://app.hackthebox.com/profile/1761072">HackTheBox </h1>
 
+1+ year security analyst. Enhanced security, boosted productivity 15% with automation, identified & resolved critical vulnerabilities, discovered 100+ flaws. Skilled in firewalls, IDS/IPS, SIEM, MITRE ATT&CK. Eager to contribute to your security-focused team
+
 <h2>👨‍💻 Development Projects:</h2>
 
 - <b>Machine Learning  (Intrusion Detection System) </b>
@@ -10,7 +12,7 @@
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/Mohnishs21/-Active-Directory-Bulk-User-Creation-)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [File Integrity Monitor](https://github.com/Mohnishs21/Integrity-File)
 - <b>C# (.NET Desktop Applications)</b>
   - [Network-Traffic-Analyzer](https://github.com/Mohnishs21/Network-Traffic-Analyzer)
 
