@@ -13,7 +13,7 @@
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/Mohnishs21/-Active-Directory-Bulk-User-Creation-)
   - [File Integrity Monitor](https://github.com/Mohnishs21/Integrity-File)
-- <b>C# (.NET Desktop Applications)</b>
+- <b> (.NET Desktop Applications)</b>
   - [Network-Traffic-Analyzer](https://github.com/Mohnishs21/Network-Traffic-Analyzer)
 
 - <b>Python</b>
